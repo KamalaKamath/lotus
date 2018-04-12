@@ -1,0 +1,6 @@
+C:\Hea\Simulator\Simulator\bin\Release\Simulator.exe.config
+C:\Hea\Simulator\Simulator\bin\Release\Simulator.exe
+C:\Hea\Simulator\Simulator\bin\Release\Simulator.pdb
+C:\Hea\Simulator\Simulator\obj\Release\Simulator.csprojResolveAssemblyReference.cache
+C:\Hea\Simulator\Simulator\obj\Release\Simulator.exe
+C:\Hea\Simulator\Simulator\obj\Release\Simulator.pdb

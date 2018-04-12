@@ -1,0 +1,6 @@
+C:\Hea\Simulator\Simulator\bin\Debug\Simulator.exe.config
+C:\Hea\Simulator\Simulator\bin\Debug\Simulator.exe
+C:\Hea\Simulator\Simulator\bin\Debug\Simulator.pdb
+C:\Hea\Simulator\Simulator\obj\Debug\Simulator.csprojResolveAssemblyReference.cache
+C:\Hea\Simulator\Simulator\obj\Debug\Simulator.exe
+C:\Hea\Simulator\Simulator\obj\Debug\Simulator.pdb

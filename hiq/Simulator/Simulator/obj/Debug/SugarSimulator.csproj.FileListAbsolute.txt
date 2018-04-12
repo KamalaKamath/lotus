@@ -1,0 +1,12 @@
+C:\Hea\Simulator\Simulator\bin\Debug\SugarSimulator.exe.config
+C:\Hea\Simulator\Simulator\bin\Debug\SugarSimulator.exe
+C:\Hea\Simulator\Simulator\bin\Debug\SugarSimulator.pdb
+C:\Hea\Simulator\Simulator\obj\Debug\SugarSimulator.csprojResolveAssemblyReference.cache
+C:\Hea\Simulator\Simulator\obj\Debug\SugarSimulator.exe
+C:\Hea\Simulator\Simulator\obj\Debug\SugarSimulator.pdb
+C:\hiq\Simulator\Simulator\bin\Debug\SugarSimulator.exe.config
+C:\hiq\Simulator\Simulator\bin\Debug\SugarSimulator.exe
+C:\hiq\Simulator\Simulator\bin\Debug\SugarSimulator.pdb
+C:\hiq\Simulator\Simulator\obj\Debug\SugarSimulator.csprojResolveAssemblyReference.cache
+C:\hiq\Simulator\Simulator\obj\Debug\SugarSimulator.exe
+C:\hiq\Simulator\Simulator\obj\Debug\SugarSimulator.pdb
